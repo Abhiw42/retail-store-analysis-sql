@@ -1,5 +1,5 @@
 -- Data for Retail Analysis Project
-
+ 
 USE retail_analysis;
 
 -- Insert categories
