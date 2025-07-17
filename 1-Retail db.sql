@@ -1,5 +1,3 @@
--- Simple Retail Database Schema
--- Designed for entry-level data analyst learning
 
 -- Create database
 CREATE DATABASE IF NOT EXISTS retail_analysis;
