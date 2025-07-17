@@ -1,4 +1,4 @@
-
+ 
 -- Create database
 CREATE DATABASE IF NOT EXISTS retail_analysis;
 USE retail_analysis;
