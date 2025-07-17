@@ -1,5 +1,4 @@
--- Sample Data for Retail Analysis Project
--- Simple, realistic data for learning SQL basics
+-- Data for Retail Analysis Project
 
 USE retail_analysis;
 
